@@ -12,3 +12,7 @@ body {
 #first-row {
 	border-bottom: 1px solid #ffffff;
 }
+
+.totals {
+	margin-bottom: 30px;
+}
